@@ -5,8 +5,8 @@ interface OferecimentoProps {
 export default function Oferecimento(props: OferecimentoProps){
     return (
         <div className={`flex flex-col justify-center items-center
-        p-2 rounded-md text-3xl font-extralight  bg-[#1E313B30] text-red-700
-        hover:text-red-500 `}
+        p-2 rounded-md text-3xl font-extralight text-white
+        hover:text-red-700 hover:font-light`}
         >
             <div>
                 {props.titulo}
