@@ -17,7 +17,7 @@ export default function Cartao(){
             />
             <Oferecimento
                 titulo='Desenvolvimento de Front End'
-                subtitulo='Com as melhores tecnologias da atualidade'
+                subtitulo='Com as melhores tecnologias da atualidade.'
             />
         </div>
     )

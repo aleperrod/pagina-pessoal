@@ -5,7 +5,7 @@ interface nomeProps {
 export default function Nome(props: nomeProps){
     
     return (
-        <div className={`p-2 rounded-md text-5xl text-white
+        <div className={`p-2 rounded-md text-6xl text-white
             hover:text-[#61dafb] hover:p-3
             ${props.cursive ? 'font-body' : ''}
         `}>
