@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Contato from "./Contato";
 import Nome from "./Nome";
+import Oferecimento from "./Oferecimento";
 
 export default function Cartao(){
     return(
@@ -13,6 +14,10 @@ export default function Cartao(){
             />
             <Contato socialNetName='GitHub'
                 socialNetUrl='https://github.com/aleperrod'
+            />
+            <Oferecimento
+                titulo='Desenvolvimento de Front End'
+                subtitulo='Com as melhores tecnologias da atualidade'
             />
         </div>
     )
