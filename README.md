@@ -6,6 +6,8 @@ Este é um começo modesto! Por enquanto, apenas uma página que é um cartão d
 
 SPA componentizada com NextJs e estilizada com TailwindCSS.
 
+Uma nova imagem de fundo é apresentada a cada novo carregamento da página.
+
 ## Linguagens e Frameworks
 
 > NextJS
