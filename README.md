@@ -10,11 +10,15 @@ Uma nova imagem de fundo é apresentada a cada novo carregamento da página.
 
 ## Linguagens e Frameworks
 
->> NextJS
->> React
->> Typescript
->> Javascript
->> TailwindCSS
+> NextJS
+
+> React
+
+> Typescript
+
+> Javascript
+
+> TailwindCSS
 
 ## Veja a página online
 
