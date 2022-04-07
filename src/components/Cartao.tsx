@@ -15,6 +15,9 @@ export default function Cartao(){
             <Contato socialNetName='GitHub'
                 socialNetUrl='https://github.com/aleperrod'
             />
+            <Contato socialNetName='CodePen'
+                socialNetUrl='https://codepen.io/ale-per-rod'
+            />
             <Oferecimento
                 titulo='Desenvolvimento de Front End'
                 subtitulo='Com as melhores tecnologias da atualidade.'
